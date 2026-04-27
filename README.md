@@ -2,6 +2,10 @@
 
 A Windows Forms (WinForms) application written in C# that implements Rivest-Shamir-Adleman (RSA) asymmetric cryptography.
 
+<p align="center">
+  <img width="512" alt="RSA App UI Example" src="https://github.com/user-attachments/assets/47d9501f-15dd-4426-8662-9d4a03280aee"/>
+</p>
+
 ## Features
 * Generates RSA public and private key pairs.
 * Encrypts text using an RSA public key.
